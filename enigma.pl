@@ -285,6 +285,9 @@ __DATA__
   <body>
     <div class="container-fluid">
       <%= content %>
+      <footer class="footer">
+      <center><h5><a href="https://github.com/kadavr/enigma_v2">github</a></h5></center>
+    </footer>
     </div>
   </body>
 </html>
